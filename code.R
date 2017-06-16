@@ -1,0 +1,3 @@
+#Script for using repositoty
+x <- rnorm(100,0,1)
+plot(x)
